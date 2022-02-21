@@ -51,7 +51,7 @@ int main()
     default:
             tax=0.32*(income-20000)+18320;
     }
-    cout<< "\n your tax liability is: $" <<tax<<endl;
+    cout<< endl<<"Your tax liability is: $"<<tax<<endl;
      
     return 0;
 }
